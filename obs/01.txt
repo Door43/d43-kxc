@@ -1,66 +1,66 @@
-====== 1.ኡመተ ======
+====== 1. ኡመተ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
 አሬ ከሞፐኸተ ዋን ቶይነ አክመ ዋቀ ፓዮተ ዌ ፕሰ ኮዴ፡፡ ሴመለ ዋቀ ፒታ ከ ዋ ፒተ ከረ ቻኤ ሌተ ሌህፐ ኡሜ፡፡ ዋቀ አፒተ ኡሜ ከመዬ፥ ፒተ ቱከንተ፤ ኡመ ዌ ተከን ኔፎ ቀረዬ እንቻን፤ ኡመ ስትይ ዋ ከረ ቸ ተከን ኔፎ እንኡመሜ፡፡ መ ኾር ሀፑረ ዋቀኤ ፕሸ ቀረ ካተውን፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
 ሴከመዬ ዋቀከ ክዴ፥ ‹‹ለአይተ አኮዶ›› ለአይተከ ኮዴ፡፡ ዋቀከ ለአይተሴ አክመ ፐቃር አኬ፤ ከ ክዴ፥ ‹‹ኩያተ›› ከ ሀሌ፡፡ ዋቀከ ኩያተ ከ ቱከንተ ኦልኬለ ሬኼ፥ ከ ቱከንተ ክዴ፥ ‹‹ሀልኬተ›› ከ ሀሌ። ዋቀከ ኩያተ ፓዮታት ለአይተ ኡሜ።፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
 ዋቀከ ኩያተ ለመታትይ፥ ዋ ፒተ ቀሮፔለ ቸ ሞንተ ኡሜ። ከ ፖረ አሴ ፐሆን ፕሸ ከ ሞንተ ኦልኬለ ሬኼ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
 
 ኩያተ ሴሰታትይ፥ ዋቀከ ፕሸ ከ ፖረ ኮኬ አከ ኦልኬለ ሬኸመኔ ኮዴ፡፡ ዋቀከ ፖሮሴ ኮኬት ክዴ፥ ‹‹ፒተ›› ከ ፕሸ ክዴ፥ ‹‹ፐከቴተ›› ከ ሀሌ፡፡ ዋቀከ ዋ ኡሜ አከ ፐቃር አኬ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
 ሴከመዬ ዋቀከ ክዴ፥ ‹‹ፒተ አቆረ ከ ድሽመደ እከ ሌከየ ዴህሶ፤›› እከ ቀረ ኮድቴ። ዋቀከ ዋ ኡሜ አከ ፐቃር አኬ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
 
 ኩያተ ኡመተ አአርፈታትይ፥ ዋቀከ ፒርቶተ ከ ሌየ እሾ ሂከ ኡሜ፡፡ ዋቀከ ኩያተ ከ ሀልኬተ ከ ኤተደ ከ ፐረደ አከ ኦልኬለ ሬኸመኔ ኮዴ፡፡ ዋቀከ ዋ ኡሜ አከ ፐቃር አኬ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
 ኩያተ ኬነታትይ ዋቀከ ዋ ፕሸ ከረ ከላነ እሾ ኸምፕረ ፕሰ ኡሜ። ዋቀከ ሴዴ አከ ፐቃር አኬ። ከ ዋ ኡመሜት ሰኬ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
 ኩያተ ሌሀታትይ፥ ዋቀከ ክዴ፥ ‹‹ፒተ ቀረንዴሰ ፕናነ ፒሰ አኡመሜን፡፡›› እከ አከ ዋቀ ክዴ ቀረ ኮዴን፡፡ ሴኔፐዬ አዴሞ፥ ሆሬተ፥ አዴሞ አፒተን ዴሰ ትትመነ፥ አዴሞ ፕናነ ከፕነኤ ኮዴን፡፡ ዋቀከ ሴዴ አከ ፐቃር አኬ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
 ዋቀከ ክዴ፥ ‹‹አከ ፐሃነኖ ከ አፕሰይኖ ምነ ነመ ኡመ፤ እሾነከ ፒተ ፕሰ ከ ፕናነ ፕሰ ቀረ ኡኩሜተ ሙክሰ ቀፕናዴን፡፡››
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?direct&}}
 
 ሴመለ ዋቀከ ፒተ ኩሴ ከ ነመ ኮዴ ከ ሀርምሼ፥ ከ ኔሰ ቻተ ዳኖ እሽ ዳሼ፡፡ መኸ ነሞሴትከ አታም ክደሜ፡፡ ዋቀከ ፖሮሴ አአታም እሽ ከሎኤ፥ ቆረ ሉከተ ድሼ ከ አከ ቶይቶኤ ኤዬኤው እሸ ኻዬ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
 ከ ድሽመዶሴን አሉከተ ከረኤ ቆረ ኸውዴሰ ቸ ለክ ድሼ፤ ቆሮሴን ቆረ ኡፕነ፥ እሾነ ኔፎ፥ ቆይረ ቻተ ዳኖ ከ ቆይረ ዋ ፐቃረ ከ አኔቀ ኦልኬለ ኡፕነኖ፡፡ ዋቀከ አከ አታም ድሽመዶሴን አሉከተ ኦፐዬ ቆይረሴ አኡፕነ እሳሴ ዋ ፐቃረ ከ አኔቀ ኦልኬለ ኡፕነኖ መልይ፥ አከ ድሽመደ አሉከተ አአተ ሀሴ ፕሰ ደሞኤ እሽ ሌሌ። መ ኾር ኦቶን ቆይረሴ ዋ ፐቃረ ከ አኔቀ ኦልኬለ ኡፕነኖ ደመዬ፥ አክመ ቶኦ እሽ ሌሌ።
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
 ዋቀከ አከ ነመ ኸዋትይ ከላተድ እንፐቃርን እሽ ሌሌ፡፡ ፕናነፐዬ አአተም ቃርቃሰ ኮደ/ቃርቃረ ተከ ኔፎ እንቻኔይ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
 ዋቀከ ሙክተ ኩተ አታም ቀረ ከቴ፤ ከ ኤቴ ሙኬዬ፥ ቅናድፐ ለፍተ ተከ ቄዴ ከ እስከቴተ ኮዴ ከ አታም ከፖፐን ዴኤ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
 አታምከ ኤቴ እሼተ አኬዬ ክዴ፥ ‹‹እን አነው ፐሀተ፤ ሀማፐ ቴየቴይ፥ አእስከቴተ ክደምቶ፡፡›› ሴመለ ነመ ኣፐይሾ ከ ኣየሶኤ ዲሸ ከ እስከቴታድ ኦል ተከ ኮደ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}
 
 ዋቀከ ዲርተ እሾ እስከቴተ ፐሀነ አመታድትን ኡሜ፡፡ ከ እሾነ ሰኬ፤ ከ ክዴ፥ ‹‹ሄለ ሌከየ ከ ኦፐደ ከሱ ቀፕናደ፤ ከ ፒተ ቀረ እመከ።›› ዋቀከ ዋ ኮዴ አከፈየ ፐቃር አኬ፡፡ ከ ዌ ፕሰን ኸሶዴ። ሴዴ ፕሰከ ኩያተ ሌህ ከረ ኮድቴ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?direct&}}
 
 ኩያተ ሌሀታትይ፥ ዋቀከ ኮደ ኡመተ ድክሼ። ከ ኩያተ ተፐታትይ ኮዳሴ አኮኖ ፕሰ ኬለዬ ኔሰዴ፤ ከ ሴመለ ኩያታሴ አተፐታት ሰኬ ከ ቁልቁለይሼ፡፡ ማነ መለ፥ ኩያሴ ኦፐዬ ኮዳድ ፕሰ ኬለዬ ኔሰዴይ፡፡ ዋቀ አሞንተ ከ ፒተ ከ ዋ ኦፐዬ ቸ ኡሞዬ፥ ፖረ አሴ ፐሆኔ ኮደሜን፡፡
 
